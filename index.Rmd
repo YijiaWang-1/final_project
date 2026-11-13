@@ -3,6 +3,18 @@ title: "Exploring NYC 311 Service Requests"
 output: html_document
 ---
 
+<style>
+#header .title {
+  text-align: center;
+}
+</style>
+
+<div style="text-align: center; margin: 20px 0 32px;">
+  <img src="images/nyc311-reporting.png"
+       alt="NYC 311 Reporting"
+       style="width: 420px; max-width: 100%; height: auto;">
+</div>
+
 ## About This Project
 
 NYC 311 connects residents with non-emergency city services. Although these requests are less urgent than 911 calls, they reflect concerns that affect everyday life across New York City.
