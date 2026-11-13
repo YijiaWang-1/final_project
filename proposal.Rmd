@@ -1,6 +1,6 @@
 ---
 title: "Everyday Concerns in New York City: Exploring NYC 311 Service Requests"
-output: github_document
+output: html_document
 ---
 
 ## Team members
