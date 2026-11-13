@@ -1,0 +1,33 @@
+---
+title: "Everyday Concerns in New York City: Exploring NYC 311 Service Requests"
+output: github_document
+---
+
+## Team members
+
+Shwai Wang (sw4257), Yuxuan Wang (yw4854), Ziyang Tian (zt2426), Haoyuan Dou (hd2651), and Yijia Wang (yw4886).
+
+## Motivation
+
+[NYC 311](https://portal.311.nyc.gov/about-nyc-311/) allows residents to report non-emergency concerns, such as noise, housing conditions, and sanitation issues. These requests are closely connected to everyday life. We aim to examine how the types and volume of requests, as well as the time taken to close them, vary across New York City's five boroughs and over time. We will interpret these differences cautiously because request types and residents' reporting behavior may also vary by borough.
+
+## Anticipated data sources
+
+We will use the [NYC Open Data 311 Service Requests dataset](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2020-to-Present/erm2-nwe9/about_data) and consult the City's [dataset update notes](https://www.nyc.gov/opendata/news/all-news/311-Service-Requests-Updates). Our planned study period runs from January 2024 through November 9, 2026. We downloaded the data in 13 time intervals from a snapshot updated at approximately 2 a.m. on November 9, 2026.
+
+## Intended final products
+
+We plan to create a project website containing an overview, interactive visualizations, a two-minute narrated screencast, and a report discussing the main findings and limitations. Reproducible R Markdown files and supporting code will be maintained in our shared GitHub repository.
+
+## Planned analyses, visualizations, and coding challenges
+
+Potential analyses include comparing request types across boroughs, examining request volume by month, weekday, or hour, and comparing time to closure across boroughs and complaint categories. Possible figures include bar charts, time-series plots, and geographic displays. We will choose the final analyses after exploring the data.
+
+Challenges include combining large files, identifying duplicate requests, standardizing dates and categories, and handling missing information and requests that remain open. We will also account for the incomplete November 2026 period.
+
+## Planned timeline
+
+- **Nov. 20:** Combine and clean the data; refine research questions.
+- **Nov. 30:** Conduct exploratory analyses and develop visualizations.
+- **On Going, by Dec.5 :** Build the website and draft the report.
+- **Dec. 10:** Review findings, check reproducibility, and finalize the submission.

@@ -1,0 +1,14 @@
+name: "nyc-311-project"
+output_dir: "."
+navbar:
+  title: "NYC 311 Explorer"
+  left:
+    - text: "Home"
+      href: index.html
+  right:
+    - text: "GitHub"
+      icon: fa-github
+      href: https://github.com/YijiaWang-1/final_project
+output:
+  html_document:
+    theme: flatly

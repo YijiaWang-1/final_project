@@ -1,0 +1,32 @@
+---
+title: "Exploring NYC 311 Service Requests"
+output: html_document
+---
+
+## About This Project
+
+NYC 311 connects residents with non-emergency city services. Although these requests are less urgent than 911 calls, they reflect concerns that affect everyday life across New York City.
+
+Our project explores NYC 311 service requests from January 2024 through November 9, 2026. We aim to examine differences in reported problems across boroughs, patterns in request volume over time, and the time between request creation and closure.
+
+## Research Questions
+
+- How do the number and types of service requests vary across boroughs?
+- How does request volume change across months, days of the week, and times of day?
+- How does time to closure vary by borough and problem type?
+
+These questions and the accompanying visualizations will be refined as we explore the data.
+
+## Our Team
+
+- Shwai Wang — sw4257
+- Yuxuan Wang — yw4854
+- Haoyuan Dou — hd2651
+- Ziyang Tian — zt2426
+- Yijia Wang - yw4886
+
+## Data Source
+
+Data were downloaded from NYC Open Data. See the
+[311 Service Requests updates page](https://www.nyc.gov/opendata/news/all-news/311-Service-Requests-Updates)
+for information about the dataset.
