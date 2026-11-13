@@ -14,3 +14,9 @@ navbar:
 output:
   html_document:
     theme: flatly
+    toc: true
+    toc_depth: 2
+    toc_float:
+      collapsed: false
+      smooth_scroll: true
+    css: styles.css
