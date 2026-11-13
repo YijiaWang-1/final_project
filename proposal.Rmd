@@ -3,10 +3,6 @@ title: "Everyday Concerns in New York City: Exploring NYC 311 Service Requests"
 output: html_document
 ---
 
-## Team members
-
-Shwai Wang (sw4257), Yuxuan Wang (yw4854), Ziyang Tian (zt2426), Haoyuan Dou (hd2651), and Yijia Wang (yw4886).
-
 ## Motivation
 
 [NYC 311](https://portal.311.nyc.gov/about-nyc-311/) allows residents to report non-emergency concerns, such as noise, housing conditions, and sanitation issues. These requests are closely connected to everyday life. We aim to examine how the types and volume of requests, as well as the time taken to close them, vary across New York City's five boroughs and over time. We will interpret these differences cautiously because request types and residents' reporting behavior may also vary by borough.
