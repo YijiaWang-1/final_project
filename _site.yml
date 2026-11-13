@@ -5,6 +5,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Proposal"
+      href: proposal.html
   right:
     - text: "GitHub"
       icon: fa-github
